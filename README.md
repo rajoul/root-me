@@ -1,6 +1,4 @@
 # root-me challenges
 hello
 test me
-
-
-dfdf
+test
